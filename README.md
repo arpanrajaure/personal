@@ -16,7 +16,14 @@ This repository is organized for:
 
 ## 🚀 Current Projects
 
-- Coming soon! Check back regularly for updates.
+### 🌐 Personal Website
+Building my professional portfolio website to showcase projects and skills.
+- Status: 🔄 In Progress
+- See [development roadmap](./WEBSITE_ROADMAP.md)
+
+### 📚 GitHub Learning Journey
+Actively learning GitHub, Git, and version control best practices.
+- Dedicated repo: [learning](https://github.com/arpanrajaure/learning)
 
 ## 💻 Tech Stack & Interests
 
@@ -26,9 +33,25 @@ This repository is organized for:
 - Open Source Contribution
 - Continuous Learning
 
+## 📊 Repository Statistics
+
+- **Projects**: Multiple learning and portfolio projects
+- **Languages**: JavaScript, HTML, CSS, Markdown
+- **Focus**: Learning and skill development
+
 ## 📚 Learning Journey
 
-I'm always learning new skills and technologies. Follow my [learning repository](https://github.com/arpanrajaure/learning) to see my educational progress.
+I'm always learning new skills and technologies. Follow my progress:
+- 🎓 **Learning Repo**: [github.com/arpanrajaure/learning](https://github.com/arpanrajaure/learning)
+- 🛠️ **Skills Practice**: [github.com/arpanrajaure/skills-introduction-to-github](https://github.com/arpanrajaure/skills-introduction-to-github)
+
+## 🎯 2026 Goals
+
+- [ ] Complete GitHub fundamentals mastery
+- [ ] Build and deploy personal website
+- [ ] Contribute to open source projects
+- [ ] Create useful utilities and tools
+- [ ] Document learning with blog posts
 
 ## 🔗 Connect & Explore
 
